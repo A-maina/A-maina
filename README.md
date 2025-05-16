@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Allan Wachira
+# 👋 Hi, I'm Allan Maina
 
 🎓 Software Developer from **Moringa School**  
 💻 I build modern, responsive websites and applications using powerful technologies  
@@ -23,14 +23,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- 🛒 [NNOVA Auto Spares](https://github.com/A-maina/nnova-auto-spares)  
-  _A modern e-commerce frontend for auto spare parts built with React & Tailwind._
-
-- 🔧 [More Projects Coming Soon](https://github.com/A-maina?tab=repositories)
-
----
 
 ### ⚡ Fun Fact
 I enjoy solving tough bugs and turning ideas into full-fledged applications!
