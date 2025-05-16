@@ -3,7 +3,7 @@
 🎓 Software Developer from **Moringa School**  
 💻 I build modern, responsive websites and applications using powerful technologies  
 🌱 Currently improving my skills in **React**, **SQL**, and full-stack development  
-📫 Reach me at: [4lwachira@gmail.com](mailto:4lwachira@gmail.com)
+📫 Reach me at: [allan.tech.ke@gmail.com](mailto:allan.tech.ke@gmail.com)
 
 ---
 
